@@ -135,7 +135,7 @@ http://localhost:8501
 
 ---
 
-## 👨‍💻 Geliştirici
+## 👥 Proje Ekibi
 
--Muhammet Demir
--ibrahim Uluer
+- Muhammet Demir
+- İbrahim Uluer
