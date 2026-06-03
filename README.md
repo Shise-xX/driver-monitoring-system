@@ -137,5 +137,5 @@ http://localhost:8501
 
 ## 👨‍💻 Geliştirici
 
-Muhammet Demir
-\nibrahim Uluer
+-Muhammet Demir
+-ibrahim Uluer
