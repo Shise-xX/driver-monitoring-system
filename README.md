@@ -137,5 +137,5 @@ http://localhost:8501
 
 ## 👨‍💻 Geliştirici
 
-Mersin Üniversitesi — Yapay Zeka Destekli Sistemler Dönem Projesi  
-**2025-2026 Bahar Dönemi**
+Muhammet Demir
+ibrahim Uluer
